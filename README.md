@@ -4,7 +4,7 @@
 
 ### Source: https://artificialanalysis.ai/
 
-* We test many LLMs and make a recommendation here:
+### We have tested many LLMs and make the following recommendation:
 
 ![AAII_1](web/images/20250606/artificial_analysis_intelligence_index_20250606_1.png)
 
