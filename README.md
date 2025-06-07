@@ -1,6 +1,8 @@
 # Artificial Analysis Intelligence Index (20250606)
 
-## Choose the right model for you! (preferred for ollama self-hosting)
+## Select the model that best fits your needs!
+
+* (preferred for ollama self-hosting)
 
 ### Source: https://artificialanalysis.ai/
 
